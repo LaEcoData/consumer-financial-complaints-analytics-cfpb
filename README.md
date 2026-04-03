@@ -3,7 +3,7 @@ An analytical study of consumer financial complaints data from the Consumer Fina
 # Consumer Financial Complaints Analytics
 
 ## Executive Overview
-![image alt] (overview.png)
+![image alt](overview.png)
 This project analyzes **62,516 consumer financial complaints** within a regulatory context to uncover patterns in customer dissatisfaction, company response behavior, and operational risk across the financial sector.
 
 **Organization:** Consumer Financial Protection Bureau (CFPB)  
