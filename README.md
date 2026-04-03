@@ -1,4 +1,4 @@
-# consumer-financial-complaints-analytics-cfpb
+# Consumer-Financial-Complaints-Analytics-CFPB
 An analytical study of consumer financial complaints data from the Consumer Financial Protection Bureau (CFPB), conducted to identify service gaps, response inefficiencies, and high-risk segments, in order to support regulatory decision-making and improve financial service delivery.
 # Consumer Financial Complaints Analytics
 
@@ -49,11 +49,11 @@ The key challenge is to:
 
 ---
 
-## 📊 Dashboard Walkthrough
+## Dashboard Walkthrough
 
 ---
 
-## 📊 Overview of Complaint Trends and System Performance
+## Overview of Complaint Trends and System Performance
 
 This section provides a high-level perspective on complaint volume, company participation, and response behavior over time. The focus is on identifying overall trends and assessing whether operational response systems are keeping pace with increasing complaint activity.
 
@@ -64,7 +64,7 @@ The analysis indicates a sustained upward trend in complaint volumes, with a sig
 
 ---
 
-## 📊 Complaint Concentration Across Products, Issues, and Company Size
+## Complaint Concentration Across Products, Issues, and Company Size
 
 This section examines how complaints are distributed across company sizes, financial products, and issue categories, with the goal of identifying concentration points and underlying drivers of customer dissatisfaction.
 
@@ -75,7 +75,7 @@ A clear concentration emerges among small-sized companies, which account for the
 
 ---
 
-## ⏱️ Response Efficiency and Operational Behavior
+## Response Efficiency and Operational Behavior
 
 This section evaluates response performance, focusing on timeliness, response distribution, and submission channels to assess how effectively complaints are being managed.
 
@@ -86,7 +86,7 @@ The response framework appears structurally inconsistent, with timely and late r
 
 ---
 
-## 📄 Strategic Insights and Recommendations
+##  Strategic Insights and Recommendations
 
 This section translates the analytical findings into actionable insights, focusing on addressing root causes of complaints and improving response effectiveness across the system.
 
@@ -121,23 +121,6 @@ Complaint activity is not evenly distributed. It is concentrated in specific com
 - **Digital channels dominate complaint submission**  
   The web as the primary channel highlights the importance of efficient digital complaint handling systems.
 
----
-
-## Dashboard Structure
-
-### Overview Page
-Provides a high-level summary of complaint volume, company distribution, response performance, and key patterns.
-
-### Complaints Analysis
-Explores trends over time, product-level concentration, and regional distribution of complaints.
-
-### Response Analysis
-Evaluates how companies respond to complaints, focusing on timeliness and variation across company groups.
-
-### Details & Recommendations
-Breaks down company-level performance and highlights actionable areas for regulatory intervention and operational improvement.
-
----
 
 ## Recommendations
 
@@ -155,25 +138,6 @@ Breaks down company-level performance and highlights actionable areas for regula
 
 - **Enhance digital complaint handling**  
   Optimize web-based systems for faster and more transparent resolution.
-
----
-
-## Dataset Description
-
-The dataset contains consumer complaints across multiple years, including information on financial products, issue types, company categories, geographic regions, and response outcomes.
-
----
-
-## How to Use This Project
-
-1. Open the Power BI file in the `/powerbi` folder  
-2. Navigate through each dashboard page:
-   - Overview  
-   - Complaints Analysis  
-   - Response Analysis  
-   - Details & Recommendations  
-3. Use filters to explore patterns across years, products, and regions  
-4. Refer to dashboard images for quick insights  
 
 ---
 
