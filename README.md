@@ -10,7 +10,10 @@ This project analyzes **62,516 consumer financial complaints** within a regulato
 **Analytical Context:** Supporting regulatory oversight and improving responsible lending practices (Nova Bank perspective)
 
 The analysis reveals a **28% increase in complaints**, strong concentration among **small companies (70.09%)**, and a near-even split between **timely (51.27%) and late (48.7%) responses** — indicating systemic inefficiencies in complaint handling and service delivery.
+---
+## Dashboard Preview
 
+![Dashboard Preview](FCOMPLAINTS.pdf)
 ---
 
 ## Business Problem
@@ -139,8 +142,4 @@ Complaint activity is not evenly distributed. It is concentrated in specific com
 - **Enhance digital complaint handling**  
   Optimize web-based systems for faster and more transparent resolution.
 
----
 
-## Dashboard Preview
-
-![Dashboard Preview](assets/dashboard-preview.png)
