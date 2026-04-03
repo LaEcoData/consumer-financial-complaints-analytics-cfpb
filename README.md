@@ -3,7 +3,7 @@ An analytical study of consumer financial complaints data from the Consumer Fina
 # Consumer Financial Complaints Analytics
 
 ## Executive Overview
-![image alt](overview.png)
+
 This project analyzes **62,516 consumer financial complaints** within a regulatory context to uncover patterns in customer dissatisfaction, company response behavior, and operational risk across the financial sector.
 
 **Organization:** Consumer Financial Protection Bureau (CFPB)  
@@ -48,6 +48,53 @@ The key challenge is to:
 - **Small Company Complaints:** 70.09% of total  
 
 ---
+
+## 📊 Dashboard Walkthrough
+
+---
+
+## 📊 Overview of Complaint Trends and System Performance
+
+This section provides a high-level perspective on complaint volume, company participation, and response behavior over time. The focus is on identifying overall trends and assessing whether operational response systems are keeping pace with increasing complaint activity.
+
+![Overview](overview.png)
+
+**Insight:**  
+The analysis indicates a sustained upward trend in complaint volumes, with a significant 28% year-over-year increase, reflecting growing pressure within the financial services ecosystem. While fluctuations exist across years, the sharp rise toward 2022 suggests structural or behavioral shifts in customer engagement or reporting. Response performance remains nearly evenly split between timely and late responses, pointing to systemic inefficiencies rather than isolated service gaps.
+
+---
+
+## 📊 Complaint Concentration Across Products, Issues, and Company Size
+
+This section examines how complaints are distributed across company sizes, financial products, and issue categories, with the goal of identifying concentration points and underlying drivers of customer dissatisfaction.
+
+![Complaints Analysis](complaint.png)
+
+**Insight:**  
+A clear concentration emerges among small-sized companies, which account for the majority of total complaints, suggesting operational limitations in handling customer issues at scale. Complaint activity is heavily driven by core financial products such as checking accounts and credit reporting, where trust and accuracy are critical. The dominance of account-related issues—particularly closures and incorrect information—points to systemic process breakdowns rather than isolated service failures.
+
+---
+
+## ⏱️ Response Efficiency and Operational Behavior
+
+This section evaluates response performance, focusing on timeliness, response distribution, and submission channels to assess how effectively complaints are being managed.
+
+![Response Analysis](response.png)
+
+**Insight:**  
+The response framework appears structurally inconsistent, with timely and late responses nearly balanced, indicating uneven service delivery across the system. Smaller companies contribute significantly to both complaint volume and response workload, reinforcing their central role in operational pressure. The strong reliance on web-based submission channels highlights a digital-first complaint pipeline, which, while scalable, may also introduce processing bottlenecks if not supported by efficient backend systems.
+
+---
+
+## 📄 Strategic Insights and Recommendations
+
+This section translates the analytical findings into actionable insights, focusing on addressing root causes of complaints and improving response effectiveness across the system.
+
+![Recommendations](details.png)
+
+**Insight:**  
+The findings highlight the need for targeted operational improvements, particularly within smaller institutions where complaint concentration is highest. Strengthening account management processes and improving data accuracy in high-risk product categories could significantly reduce complaint volumes. Additionally, enhancing response infrastructure—especially for digitally submitted complaints—is critical to addressing delays and improving overall customer experience.
+
 
 ## Analytical Insights
 
